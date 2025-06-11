@@ -1,0 +1,6 @@
+library(dplyr)
+install.packages("dplyr")
+dataset1 <- read.csv("sales.csv")
+dataset2 <- read.csv("salary.csv")
+
+getwd()

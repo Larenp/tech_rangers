@@ -1,0 +1,12 @@
+  });
+    size: { h: 28, w: 35.5, uom: 'cm' }
+    tags: ['cotton'],
+    qty: 100,
+    item: 'canvas',
+ db.inventory.insertOne({
+});
+tags: ['cotton'], size: { h: 28, w: 35.5, uom: 'cm' }
+item: 'canvas', qty: 100,
+await db.collection('inventory').insertOne({
+ use employees
+show dbs

@@ -1,0 +1,32 @@
+2024-12-05T04:29:41.902944Z [rsession-larenpinto] ERROR jsonrpc error 1 (Could not check for updates. Please check the network connection.) [r-error: Error in download.file(updateUrl, tmp, method = method, quiet = TRUE) : 
+  cannot open URL 'https://www.rstudio.org/links/check_for_update?version=2024.09.1%2B394&os=mac&format=kvp'
+Calls: downloadUpdateInfo -> download.file
+In addition: Warning message:
+In download.file(updateUrl, tmp, method = method, quiet = TRUE) :
+  URL 'https://www.rstudio.org/links/check_for_update?version=2024.09.1%2B394&os=mac&format=kvp': status was 'Couldn't resolve host name'
+Execution halted
+]; OCCURRED AT void rstudio::session::modules::updates::(anonymous namespace)::endRPCUpdateCheck(const json::JsonRpcFunctionContinuation &, const core::system::ProcessResult &) src/cpp/session/modules/SessionUpdates.cpp:135; LOGGED FROM: void rstudio::session::modules::updates::(anonymous namespace)::endRPCUpdateCheck(const json::JsonRpcFunctionContinuation &, const core::system::ProcessResult &) src/cpp/session/modules/SessionUpdates.cpp:137
+2024-12-05T04:29:41.902944Z [rsession-larenpinto] ERROR jsonrpc error 1 (Could not check for updates. Please check the network connection.) [r-error: Error in download.file(updateUrl, tmp, method = method, quiet = TRUE) : 
+  cannot open URL 'https://www.rstudio.org/links/check_for_update?version=2024.09.1%2B394&os=mac&format=kvp'
+Calls: downloadUpdateInfo -> download.file
+In addition: Warning message:
+In download.file(updateUrl, tmp, method = method, quiet = TRUE) :
+  URL 'https://www.rstudio.org/links/check_for_update?version=2024.09.1%2B394&os=mac&format=kvp': status was 'Couldn't resolve host name'
+Execution halted
+]; OCCURRED AT void rstudio::session::modules::updates::(anonymous namespace)::endRPCUpdateCheck(const json::JsonRpcFunctionContinuation &, const core::system::ProcessResult &) src/cpp/session/modules/SessionUpdates.cpp:135; LOGGED FROM: void rstudio::session::modules::updates::(anonymous namespace)::endRPCUpdateCheck(const json::JsonRpcFunctionContinuation &, const core::system::ProcessResult &) src/cpp/session/modules/SessionUpdates.cpp:137
+2024-12-05T04:30:33.422286Z [rsession-larenpinto] ERROR jsonrpc error 1 (Could not check for updates. Please check the network connection.) [r-error: Error in download.file(updateUrl, tmp, method = method, quiet = TRUE) : 
+  cannot open URL 'https://www.rstudio.org/links/check_for_update?version=2024.09.1%2B394&os=mac&format=kvp'
+Calls: downloadUpdateInfo -> download.file
+In addition: Warning message:
+In download.file(updateUrl, tmp, method = method, quiet = TRUE) :
+  URL 'https://www.rstudio.org/links/check_for_update?version=2024.09.1%2B394&os=mac&format=kvp': status was 'Couldn't resolve host name'
+Execution halted
+]; OCCURRED AT void rstudio::session::modules::updates::(anonymous namespace)::endRPCUpdateCheck(const json::JsonRpcFunctionContinuation &, const core::system::ProcessResult &) src/cpp/session/modules/SessionUpdates.cpp:135; LOGGED FROM: void rstudio::session::modules::updates::(anonymous namespace)::endRPCUpdateCheck(const json::JsonRpcFunctionContinuation &, const core::system::ProcessResult &) src/cpp/session/modules/SessionUpdates.cpp:137
+2024-12-05T04:30:33.422286Z [rsession-larenpinto] ERROR jsonrpc error 1 (Could not check for updates. Please check the network connection.) [r-error: Error in download.file(updateUrl, tmp, method = method, quiet = TRUE) : 
+  cannot open URL 'https://www.rstudio.org/links/check_for_update?version=2024.09.1%2B394&os=mac&format=kvp'
+Calls: downloadUpdateInfo -> download.file
+In addition: Warning message:
+In download.file(updateUrl, tmp, method = method, quiet = TRUE) :
+  URL 'https://www.rstudio.org/links/check_for_update?version=2024.09.1%2B394&os=mac&format=kvp': status was 'Couldn't resolve host name'
+Execution halted
+]; OCCURRED AT void rstudio::session::modules::updates::(anonymous namespace)::endRPCUpdateCheck(const json::JsonRpcFunctionContinuation &, const core::system::ProcessResult &) src/cpp/session/modules/SessionUpdates.cpp:135; LOGGED FROM: void rstudio::session::modules::updates::(anonymous namespace)::endRPCUpdateCheck(const json::JsonRpcFunctionContinuation &, const core::system::ProcessResult &) src/cpp/session/modules/SessionUpdates.cpp:137
