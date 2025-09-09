@@ -1,16 +1,16 @@
-2024-12-02T13:47:37.406Z [debug] [main] Safe constructing new CMakeProject instance
-2024-12-02T13:47:37.406Z [debug] [variant] Constructing VariantManager
-2024-12-02T13:47:37.407Z [debug] [main] Constructing new CMakeProject instance
-2024-12-02T13:47:37.407Z [debug] [main] Starting CMake Tools second-phase init
-2024-12-02T13:47:37.407Z [debug] [expand] expanded ${workspaceFolder}
-2024-12-02T13:47:37.408Z [debug] [kit] Not reading non-existent kits file: /Users/larenpinto/.local/share/CMakeTools/cmake-tools-kits.json
-2024-12-02T13:47:37.409Z [debug] [kit] Not reading non-existent kits file: /Users/larenpinto/Desktop/fewd/.vscode/cmake-kits.json
-2024-12-02T13:47:37.437Z [info] [variant] Loaded new set of variants
-2024-12-02T13:47:37.438Z [debug] [main] CMakeProject instance initialization complete.
-2024-12-02T13:47:37.449Z [info] [kit] Detected kits definition version change from undefined to 2. Silently scanning for kits.
-2024-12-02T13:47:37.458Z [debug] [kitsController] Rescanning for kits
-2024-12-02T13:47:37.458Z [debug] [kit] Scanning for Kits on system
-2024-12-02T13:47:37.459Z [debug] [kit] Scanning directory /usr/local/bin for compilers
+2025-01-22T19:15:56.771Z [debug] [main] Safe constructing new CMakeProject instance
+2025-01-22T19:15:56.771Z [debug] [variant] Constructing VariantManager
+2025-01-22T19:15:56.772Z [debug] [main] Constructing new CMakeProject instance
+2025-01-22T19:15:56.772Z [debug] [main] Starting CMake Tools second-phase init
+2025-01-22T19:15:56.772Z [debug] [expand] expanded ${workspaceFolder}
+2025-01-22T19:15:56.773Z [debug] [kit] Reading kits file /Users/larenpinto/.local/share/CMakeTools/cmake-tools-kits.json
+2025-01-22T19:15:56.802Z [info] [kit] Successfully loaded 1 kits from /Users/larenpinto/.local/share/CMakeTools/cmake-tools-kits.json
+2025-01-22T19:15:56.818Z [debug] [kit] Not reading non-existent kits file: /Users/larenpinto/Desktop/tech_rangers-techrangers-3/techrangers/.vscode/cmake-kits.json
+2025-01-22T19:15:56.832Z [info] [variant] Loaded new set of variants
+2025-01-22T19:15:56.833Z [debug] [main] CMakeProject instance initialization complete.
+2025-01-22T19:16:01.752Z [debug] [main] Not starting CMake driver: no kit selected
+2025-01-22T19:18:31.435Z [debug] [extension] Deactivate CMakeTools
+t] Scanning directory /usr/local/bin for compilers
 2024-12-02T13:47:37.459Z [debug] [kit] Scanning directory /usr/bin for compilers
 2024-12-02T13:47:37.459Z [debug] [kit] Scanning directory /System/Cryptexes/App/usr/bin for compilers
 2024-12-02T13:47:37.459Z [debug] [kit] Scanning directory /bin for compilers
